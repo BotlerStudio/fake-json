@@ -4,55 +4,63 @@
         "url": "https://eurosport.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Eurosport",
-        "category": "Sports"
+        "category": "Sports",
+        "isFeatured": false
     },
     {
         "_id": "5d8760f5f64c02ca0ae7c149",
         "url": "https://google.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Google",
-        "category": "General"
+        "category": "General",
+        "isFeatured": true
     },
     {
         "_id": "5d8760f5f64c02ca0ae7c150",
         "url": "https://facebook.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Facebook",
-        "category": "Social Media"
+        "category": "Social Media",
+        "isFeatured": true
     },
     {
         "_id": "5d8760f5f64c02ca0ae7c151",
         "url": "https://twitter.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Twitter",
-        "category": "Social Media"
+        "category": "Social Media",
+        "isFeatured": true
     },
     {
         "_id": "5d8760f5f64c02ca0ae7c152",
         "url": "https://goal.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Goal.com",
-        "category": "Sports"
+        "category": "Sports",
+        "isFeatured": false
     },
     {
         "_id": "5d8760f5f64c02ca0ae7c153",
         "url": "https://yallakora.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Yalla Kora",
-        "category": "Sports"
+        "category": "Sports",
+        "isFeatured": false
     },
     {
         "_id": "5d8760f5f64c02ca0ae7c154",
         "url": "https://yahoo.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Yahoo!",
-        "category": "General"
+        "category": "General",
+        "isFeatured": false
     },
     {
         "_id": "5d8760f5f64c02ca0ae7c155",
         "url": "https://waslabrowser.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Wasla Browser",
-        "category": "General"
+        "category": "General",
+        "isFeatured": false
     }
 ]
