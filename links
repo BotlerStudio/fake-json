@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "5d8760f5f64c02ca0ae7c148",
+        "url": "https://eurosport.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Eurosport",
+        "category": "Sports"
+    },
+    {
+        "_id": "5d8760f5f64c02ca0ae7c149",
+        "url": "https://google.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Google",
+        "category": "General"
+    },
+    {
+        "_id": "5d8760f5f64c02ca0ae7c150",
+        "url": "https://facebook.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Facebook",
+        "category": "Social Media"
+    },
+    {
+        "_id": "5d8760f5f64c02ca0ae7c151",
+        "url": "https://twitter.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Twitter",
+        "category": "Social Media"
+    },
+    {
+        "_id": "5d8760f5f64c02ca0ae7c152",
+        "url": "https://goal.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Goal.com",
+        "category": "Sports"
+    },
+    {
+        "_id": "5d8760f5f64c02ca0ae7c153",
+        "url": "https://yallakora.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Yalla Kora",
+        "category": "Sports"
+    },
+    {
+        "_id": "5d8760f5f64c02ca0ae7c154",
+        "url": "https://yahoo.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Yahoo!",
+        "category": "General"
+    },
+    {
+        "_id": "5d8760f5f64c02ca0ae7c155",
+        "url": "https://waslabrowser.com",
+        "icon": "https://picsum.photos/200",
+        "name": "Wasla Browser",
+        "category": "General"
+    }
+]
