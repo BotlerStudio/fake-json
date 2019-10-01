@@ -1,6 +1,6 @@
 [
     {
-        "_id": "5d8760f5f64c02ca0ae7c148",
+        "id": "5d8760f5f64c02ca0ae7c148",
         "url": "https://eurosport.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Eurosport",
@@ -8,7 +8,7 @@
         "isFeatured": false
     },
     {
-        "_id": "5d8760f5f64c02ca0ae7c149",
+        "id": "5d8760f5f64c02ca0ae7c149",
         "url": "https://google.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Google",
@@ -16,7 +16,7 @@
         "isFeatured": true
     },
     {
-        "_id": "5d8760f5f64c02ca0ae7c150",
+        "id": "5d8760f5f64c02ca0ae7c150",
         "url": "https://facebook.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Facebook",
@@ -24,7 +24,7 @@
         "isFeatured": true
     },
     {
-        "_id": "5d8760f5f64c02ca0ae7c151",
+        "id": "5d8760f5f64c02ca0ae7c151",
         "url": "https://twitter.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Twitter",
@@ -32,7 +32,7 @@
         "isFeatured": true
     },
     {
-        "_id": "5d8760f5f64c02ca0ae7c152",
+        "id": "5d8760f5f64c02ca0ae7c152",
         "url": "https://goal.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Goal.com",
@@ -40,7 +40,7 @@
         "isFeatured": false
     },
     {
-        "_id": "5d8760f5f64c02ca0ae7c153",
+        "id": "5d8760f5f64c02ca0ae7c153",
         "url": "https://yallakora.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Yalla Kora",
@@ -48,7 +48,7 @@
         "isFeatured": false
     },
     {
-        "_id": "5d8760f5f64c02ca0ae7c154",
+        "id": "5d8760f5f64c02ca0ae7c154",
         "url": "https://yahoo.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Yahoo!",
@@ -56,7 +56,7 @@
         "isFeatured": false
     },
     {
-        "_id": "5d8760f5f64c02ca0ae7c155",
+        "id": "5d8760f5f64c02ca0ae7c155",
         "url": "https://waslabrowser.com",
         "iconUrl": "https://picsum.photos/200",
         "name": "Wasla Browser",
