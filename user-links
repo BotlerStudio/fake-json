@@ -1,0 +1,32 @@
+[
+    {
+        "id": "5d8760f5f64c02ca0ae7c148",
+        "url": "https://eurosport.com",
+        "iconUrl": "https://picsum.photos/200",
+        "name": "Eurosport"
+    },
+    {
+        "id": "5d8760f5f64c02ca0ae7c152",
+        "url": "https://goal.com",
+        "iconUrl": "https://picsum.photos/200",
+        "name": "Goal.com"
+    },
+    {
+        "id": "5d8760f5f64c02ca0ae7c153",
+        "url": "https://yallakora.com",
+        "iconUrl": "https://picsum.photos/200",
+        "name": "Yalla Kora"
+    },
+    {
+        "id": "5d8760f5f64c02ca0ae7c154",
+        "url": "https://yahoo.com",
+        "iconUrl": "https://picsum.photos/200",
+        "name": "Yahoo!"
+    },
+    {
+        "id": "5d8760f5f64c02ca0ae7c155",
+        "url": "https://waslabrowser.com",
+        "iconUrl": "https://picsum.photos/200",
+        "name": "Wasla Browser"
+    }
+]
